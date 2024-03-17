@@ -19,25 +19,10 @@
 
 Hey there! I'm a developer and enthusiastic security researcher. I just love computers, IoT devices, and electronics. My true joy lies in the art of hacking, sharing knowledge, and the endless cycle of learning. I am also a strong "King of fighters 98" player, and a good gutarist.
 
-#### Thinks that I do:<br>
+### Thinks that I do:<br>
 💻 Coding.<br>
 🪲 Bug hunting. <br>
 🔬 Reverse Engineering.<br>
 
-#### Favorite language:
+### Favorite language:
 C/C++, Python
-
-<!--
-**warber0x/warber0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
