@@ -24,5 +24,5 @@ Hey there! I'm a developer and enthusiastic security researcher. I just love com
 🪲 Bug hunting. <br>
 🔬 Reverse Engineering.<br>
 
-### Favorite language:
-C/C++, Python
+### Favorite languages:
+C/C++, Python, Golang
