@@ -17,7 +17,7 @@
 </div>
 <br />
 
-Hey there! I'm a developer and enthusiastic security researcher. I just love computers, IoT devices, and electronics. My true joy lies in the art of hacking, sharing knowledge, and the endless cycle of learning. I am also a strong "King of fighters 98" player, and a good gutarist.
+Hey there! I'm a developer and enthusiastic security researcher. I just love computers, IoT devices, and electronics. My true joy lies in the art of hacking, sharing knowledge, and the endless cycle of learning. I am also a strong "King of fighters 98" player, and a good guitarist.
 
 ### Thinks that I do:<br>
 💻 Coding.<br>
